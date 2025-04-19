@@ -1,4 +1,4 @@
-# Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
+# EXP1: INSTALL VMWARE, INSTALL KALI LINUX AND INSTALL SLEUTH KIT. 
 ## AIM:
 
 To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Kit for digital forensic analysis.
