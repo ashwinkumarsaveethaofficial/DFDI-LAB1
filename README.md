@@ -39,6 +39,7 @@ INSTALLING VMWARE:
 ### Step 2. Run the Installer
   •	Locate the downloaded .exe file (usually in your Downloads folder)
   ![image](https://github.com/user-attachments/assets/2e1124f5-c545-49c1-a32e-77b570772e47)
+  
   •	Double-click it to run the installer
 ### Step 3. Installer Wizard
 ![image](https://github.com/user-attachments/assets/b6ce457d-ef4d-44f0-a364-239882032541)
@@ -54,6 +55,7 @@ INSTALLING VMWARE:
 ### Step  5. Begin Installation
   •	Click Install
   ![image](https://github.com/user-attachments/assets/6241549f-0079-4fba-9b9a-09f76bca4db6)
+  
   •	If asked for permission by User Account Control (UAC), click Yes
 
 ## OUTPUT:
@@ -73,6 +75,7 @@ INSTALLING VMWARE:
    
   •	Download the .7z file (Kali Linux VirtualBox image)
   ![image](https://github.com/user-attachments/assets/0ca20847-91fe-4745-b21e-ac4d0caa72a4)
+  
 ### Step 3: Extract the File
   •	Use 7-Zip or WinRAR to extract the .7z file:
   
@@ -86,6 +89,7 @@ INSTALLING VMWARE:
   
   •	Click on File → Import Appliance
   ![image](https://github.com/user-attachments/assets/da7fd3b1-a9b0-40fb-93dc-f0d9a1b15bfa)
+  
   •	Click Choose, then browse to the extracted .vbox file
   
   •	Select the .vbox file and click Next
@@ -108,9 +112,11 @@ INSTALLING VMWARE:
   
   •	Try the basic Linux commands:
   ![image](https://github.com/user-attachments/assets/34666e5d-2bc9-4d96-b2b9-493ae4b6cf46)
+  
 ## INSTALLING SLEUTH KIT:
   •	Download Sleuth Kit from www.sleuthkit.org/sleuthkit/download.php
   ![image](https://github.com/user-attachments/assets/9355a68d-e06d-4642-971b-8cda41f6229e)
+  
   ●	Move the downloaded folder to the program files.
   
   ●	Go to the system environment variables.
@@ -120,6 +126,7 @@ INSTALLING VMWARE:
   ● Click environment variables.
   ![image](https://github.com/user-attachments/assets/63bf5230-4ef6-457c-b084-7012086de8e4)
   ![image](https://github.com/user-attachments/assets/7b371029-5ce9-4050-8252-26901ab81b4e)
+  
   ●	Click the path
   
   ●	Now add the sleuth kit folder address.
