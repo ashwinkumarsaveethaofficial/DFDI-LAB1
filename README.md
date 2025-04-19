@@ -43,6 +43,7 @@ INSTALLING VMWARE:
   •	Double-click it to run the installer
 ### Step 3. Installer Wizard
 ![image](https://github.com/user-attachments/assets/b6ce457d-ef4d-44f0-a364-239882032541)
+
   •	Click Next
   
   •	Keep default settings unless you want to change install location or features
